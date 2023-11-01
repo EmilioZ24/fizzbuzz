@@ -12,3 +12,5 @@ For example, `fizzbuzz(16)` should print:
 
 
 *You don't need to have them separated by commas; you can have each number (or word) get printed on it's own line*
+
+understanble
