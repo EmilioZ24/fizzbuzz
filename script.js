@@ -1,7 +1,7 @@
 function fizzbuzz(n) {
 	// Write your code here
 	for (let i = 1; i <= n; i++ ){
-		if(i % 3 === 0 && 1 % 5===0){
+		if(i % 3 === 0 && 1 % 5 === 0){
 			console.log("FizzBuzz");
 		} else if (i % 3 === 0){
 			console.log('Fizz');
